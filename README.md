@@ -30,3 +30,8 @@ In the base game, the Lost Adventurer's `chanceToSpawn` is set to `0` for the la
 ## Installation
 
 Use the Thunderstore Mod Manager or extract the `BepInEx` folder into your Enter the Gungeon directory.
+
+## More info
+
+Hablo español, y no he probado como cambiar los idiomas y cosas por el estilo, cualquier aporte se agradece.
+I speak Spanish, and I haven't tried changing languages and things like that, so any input is appreciated.
